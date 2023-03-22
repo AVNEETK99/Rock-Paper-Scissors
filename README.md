@@ -14,7 +14,7 @@ The game is often used as a way of making a decision or resolving a dispute betw
 
 * Open a command prompt or terminal window and navigate to the folder where you extracted the code.
 
-* Type ```python rock.py''' and press Enter to start the game.
+* Type ```python rock.py``` and press Enter to start the game.
 
 * Follow the prompts to play the game.
 
